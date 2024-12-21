@@ -1,0 +1,12 @@
+body{
+  background-color: antiquewhite;
+  color:black;
+  line-height: 1.8;
+  padding: 20px;
+}
+.App{
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: aqua;
+  text-align: center;
+}
